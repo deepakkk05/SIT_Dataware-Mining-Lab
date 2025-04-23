@@ -1,38 +1,36 @@
-Data Processing and Exploratory Data Analysis (EDA) Practical Implementation
+# 🧠 Data Warehouse and Mining Lab Projects
 
-Overview
-This repository contains Python implementations of various data processing techniques and Exploratory Data Analysis (EDA) performed on different datasets. The repository includes practical applications such as handling missing values, EDA, and performing various transformations on a handmade dataset.
+This repository contains a collection of hands-on lab exercises and mini-projects implemented as part of the **Data Warehouse and Data Mining Laboratory** coursework. The focus of these tasks is to understand and apply concepts such as data preprocessing, exploratory data analysis (EDA), data transformation, and implementation of core data mining algorithms using tools like **Weka** and **Python**.
 
-Practicals Covered
-4. Treating Missing Values
-- Implemented multiple techniques to handle missing values, including:
-  - Mean/Median/Mode Imputation
-  - Forward/Backward Fill
-  - Dropping Missing Values
-  - Using Predictive Models
-  
-5. Performing Exploratory Data Analysis (EDA)
-- Conducted EDA on a given dataset, covering:
-  - Summary statistics
-  - Data visualization (Histograms, Boxplots, Scatterplots)
-  - Correlation Analysis
-  - Identifying Outliers
+---
 
-6. Data Transformation on Handmade Dataset
-- Applied the following transformations:
-  - NameUpper: Converted text data to uppercase.
-  - Multicast: Transformed data based on multiple criteria.
-  - Conditional Split: Split data conditionally based on values.
-  - Aggregation: Grouped and aggregated data.
-  - Sort: Sorted dataset based on specific columns.
-  - Derived Column: Created new features from existing data.
+## 📚 Lab Topics Covered
 
-Requirements
-Ensure you have the following dependencies installed:
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+| Sr. No. | Topic |
+|--------|-------|
+| 01 | Study of Data Mining tool Weka and creation of a new ARFF file |
+| 02 | Treatment of missing values for attributes using Weka |
+| 03 | **Exploratory Data Analysis (EDA)** on the given dataset using Python |
+| 04 | Handling missing values using different techniques in Python |
+| 05 | Data flow transformations commonly used in ETL processes |
+| 06 | OLAP operations on a multi-dimensional data cube |
+| 07 | **Apriori Algorithm** to find frequent item sets from a dataset |
+| 08 | **Naïve Bayes Algorithm** implementation |
+| 09 | **KNN (K-Nearest Neighbors)** algorithm implementation |
+| 10 | **K-Means Clustering** data mining algorithm |
+| 11 | **Decision Tree** implementation on a dataset |
+| 12 | **Linear Regression** model implementation |
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 🐍 Python
+- 🐱‍👤 Weka
+- 📊 Pandas, NumPy, Matplotlib, Seaborn
+- 💡 Scikit-learn
+- 📁 ARFF file handling
+
+---
 
 
